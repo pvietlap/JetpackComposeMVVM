@@ -1,6 +1,6 @@
 # Jetpack Compose MVVM
 
-- Project is a sample app about load data information from Api gitHub and save data though Room database.
+- Project is a sample app for loading data information from the gitHub API and storing data though Android Room database.
 
 - Architecture : MVVM & Clean Architecture
 
