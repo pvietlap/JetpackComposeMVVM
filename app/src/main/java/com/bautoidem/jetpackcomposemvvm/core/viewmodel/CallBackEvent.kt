@@ -1,0 +1,3 @@
+package com.bautoidem.jetpackcomposemvvm.core.viewmodel
+
+interface CallBackEvent

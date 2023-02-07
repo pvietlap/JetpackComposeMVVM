@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JetpackComposeMVVM</string>
+    <string name="user_info">Info</string>
+    <string name="user_input">Input</string>
+</resources>
